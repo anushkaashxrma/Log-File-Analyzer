@@ -1,5 +1,5 @@
-Error: Disk full
-Warning: Low memory
-Info: System rebooted
-Info: Update completed
-Error: Timeout occurred
+INFO User logged in
+WARNING Disk usage high
+ERROR Failed to connect
+INFO System running
+ERROR Permission denied

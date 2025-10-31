@@ -1,13 +1,29 @@
-# Log-File-Analyzer
-Analyze system log files and report the number of errors, warnings, and other key events. Example Output: Errors: 12 Warnings: 5 Info Messages: 34
-# Log File Analyzer
+# Log File Analyzer (Menu-Driven Bash Project)
 
-This script analyzes a system log file and reports:
+This project analyzes a system log file and displays:
+
+- Total Lines in log file  
 - Number of **Errors**
 - Number of **Warnings**
 - Number of **Info Messages**
 
+The script is **menu-driven**, allowing the user to select options one by one.
+
+---
+
+## Features
+
+- Menu-based interface
+- Counts Error, Warning, and Info messages
+- Displays full summary report
+- Simple & beginner-friendly Bash automation project
+
+---
+
 ## Usage
 
+1. Save the script as `analyze.sh`
+2. Make it executable:
+
 ```bash
-./analyze.sh <log_file>
+chmod +x analyze.sh
