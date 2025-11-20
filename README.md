@@ -30,10 +30,8 @@ chmod +x analyze.sh
 ```
 
 ## Output
-## Output
 
-Here is the sample output of the log file analyzer:
+<img width="590" height="470" alt="ss 1" src="https://github.com/user-attachments/assets/f40285ed-e2fc-46cd-a5b1-3c36ac6feea4" />
+<img width="590" height="384" alt="ss 2" src="https://github.com/user-attachments/assets/5c794417-0392-49d1-89c2-d0a1864c8bf3" />
 
-![Output Screenshot](https://github.com/user-attachments/assets/84ad0852-b8fb-465d-90dc-29ed07716a4c)
 
-![Output Screenshot 2](https://github.com/user-attachments/assets/e7611f5c-0649-4fe5-89ff-7dc37beb059d)
