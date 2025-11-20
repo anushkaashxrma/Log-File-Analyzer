@@ -27,3 +27,7 @@ The script is **menu-driven**, allowing the user to select options one by one.
 
 ```bash
 chmod +x analyze.sh
+```
+
+## Output
+
